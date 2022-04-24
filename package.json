@@ -1,5 +1,23 @@
 {
   "dependencies": {
+    "inquirer": "^8.2.2",
     "node": "^17.7.2"
-  }
+  },
+  "name": "portfolio-gen",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsaaad/Portfolio-Gen.git"
+  },
+  "author": "gsaaad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsaaad/Portfolio-Gen/issues"
+  },
+  "homepage": "https://github.com/gsaaad/Portfolio-Gen#readme"
 }
